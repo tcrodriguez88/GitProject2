@@ -11,6 +11,7 @@ public class DemoDay5 {
 	public void getData() {
 		
 		System.out.println("Today us Java day.....");
+		System.out.println("Today us Java day2.....");
 	
 	}
 	
