@@ -27,4 +27,9 @@ public class DemoDay2 {
 	public static void add( int a, int b, int c) {
 		System.out.println(a+b+c);
 	}	
+	
+	//add Teresa
+	public static void mult(int a, int b, int d) {
+		System.out.println(a*b*d);
+	}
 }
